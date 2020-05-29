@@ -19,4 +19,4 @@
 
 <img src="summoners_info.png" width=.7>
 
-Note: This readme will be updated once it is complete. I am currently waiting for Riot's approval for rate limit increase for their API to finish this dataset.
+Note: This readme will be updated once the dataset is complete. I am currently waiting for Riot's approval for rate limit increase to their API to finish this dataset.
