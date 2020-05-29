@@ -11,6 +11,7 @@
     2. Parsed all units, items on each unit, number of the units, total number of units, ect.  
     3. Parsed all traits, number of units for each trait, trait bonus, ect.
     
+The following matches were from 20 players, all matches are unique and there is no overlapping information
 <img src="tft_dataset.png" width=.7>
 
 # Summoner Dataset
