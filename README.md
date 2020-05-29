@@ -18,3 +18,5 @@
 ## The following dataset contains all summoners' information
 
 <img src="summoners_info.png" width=.7>
+
+Note: This readme will be updated once it is complete. I am currently waiting for Riot's approval for rate limit increase for their API to finish this dataset.
