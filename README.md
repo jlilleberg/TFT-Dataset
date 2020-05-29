@@ -1,12 +1,8 @@
 # TFT Dataset
 
-The following datasets contain summoner inforation and
+## The following dataset contains all tft match history information
 
-## TFT Dataset
-
-### The following dataset contains all tft match history information
-
-#### Q: How was the data gathered and how is it organized?
+### Q: How was the data gathered and how is it organized?
 1. Given a set of players, pulled the past 200 tft matches for each player respectively
 2. Aggreated the list of matches and removed all duplicates
 3. For each match, pulled the rank respective rank information
@@ -17,8 +13,8 @@ The following datasets contain summoner inforation and
     
 <img src="tft_dataset.png" width=.7>
 
-## Summoner Dataset
+# Summoner Dataset
 
-### The following dataset contains all summoners' information
+## The following dataset contains all summoners' information
 
 <img src="summoners_info.png" width=.7>
